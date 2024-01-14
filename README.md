@@ -1,4 +1,4 @@
-# Cyberbot Assignment
+# Web Clipper
 
 ## Overview
 This project is a browser web clipper that can save website links by installed it as a browser extension.
